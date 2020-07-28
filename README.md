@@ -3,14 +3,14 @@ An automatic desktop wallpaper changer using windows spotlight wallpapers
 1. Automatically updates new background wallpapers from microsoft spotlight wallpapers
 2. Automatically updates the wallpapers
 
-All using a a single click. !!
+**All using a a single click. !!**
 
 ## Pre-requisites
 1. Install anaconda latest version
 https://www.anaconda.com/
 
 2. Add anaconda scripts directory to your environment variable
-Eg. Add the following path - **C:\Users\sidus\Anaconda3\Scripts\** to the path variable
+Eg. Add the following path - **C:\Users\sidus\Anaconda3\Scripts\** to your environment **path** variable
 
 ## Configuration
 
