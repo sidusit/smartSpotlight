@@ -1,0 +1,2 @@
+fromDirectory=C:\Users\sidus\AppData\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\LocalState\Assets\
+toDirectory=C:\Users\sidus\Desktop\applications\smartSpotlight\wallpapers\
