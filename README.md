@@ -1,7 +1,7 @@
 # smartSpotlight: an automatic desktop wallpaper changer using windows spotlight wallpapers 
-## 1. Automatically updates new background wallpapers from microsoft (takes from assets directory store locally) spotlight wallpapers
-## 2. Automatically updates the wallpapers
-# All using a a single click.
+### 1. Automatically updates new background wallpapers from microsoft (takes from assets directory store locally) spotlight wallpapers
+### 2. Automatically updates the wallpapers
+### All using a a single click.
 
 ## Pre-requisites
 A
