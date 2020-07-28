@@ -1,9 +1,9 @@
-# smartSpotlight
+# smartSpotlight - https://www.youtube.com/watch?v=E6WVh-DHMKA
 An automatic desktop wallpaper changer using windows spotlight wallpapers 
 1. Automatically updates new background wallpapers from microsoft spotlight wallpapers
 2. Automatically updates the wallpapers
 
-**All using a a single click. !!**
+**All using a a single click. !!** - Check the video Demo - https://www.youtube.com/watch?v=E6WVh-DHMKA
 
 ## Pre-requisites
 1. Download and Install anaconda latest version
