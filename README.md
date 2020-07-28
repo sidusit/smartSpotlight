@@ -1,11 +1,11 @@
 # smartSpotlight
-## An automatic desktop wallpaper changer using windows spotlight wallpapers 
-### 1. Automatically updates new background wallpapers from microsoft (takes from assets directory store locally) spotlight wallpapers
-### 2. Automatically updates the wallpapers
-### All using a a single click.
+An automatic desktop wallpaper changer using windows spotlight wallpapers 
+1. Automatically updates new background wallpapers from microsoft (takes from assets directory store locally) spotlight wallpapers
+2. Automatically updates the wallpapers
+
+All using a a single click. !!
 
 ## Pre-requisites
-A
 1. Install anaconda latest version
 https://www.anaconda.com/
 
@@ -14,19 +14,21 @@ Eg. Add the following path - **C:\Users\sidus\Anaconda3\Scripts\** to the path v
 
 ## Configuration
 
-### 1. Change paths in config.txt file
+### A. Change paths in configuration file
 
 Specify the fromDirectory and the toDirectory variable in the config.txt file
-a) fromDirectory - Should be the path to your assets directory in windows that stores the lock screen wallpapers
+1. fromDirectory - Should be the path to your assets directory in windows that stores the lock screen wallpapers
 Alternatively for fromDirectory - You could also specify path to some other folder in your system from where only widescreen wallpapers suitable for desktop needs to be copied
-b) toDirectory - The directory where the appropriate widescreen spotlight wallpapers will be stored (appended with .jpg ffor sptotlight wallpapers)
+2. toDirectory - The directory where the appropriate widescreen spotlight wallpapers will be stored (appended with .jpg ffor sptotlight wallpapers)
 
-### 2. Change paths in bat files - smartSpotlight_v1.bat and randomBackground_v1.bat
-In the first line of smartSpotlight_v1.bat replace the line with path of the directory where you have kept the smartSpotlight_v1.py file
-In the first line of randomBackground_v1.bat replace the line with path of the directory where you have kept the randomBackground_v1.py file
+### B. Change paths in bat files
+For *smartSpotlight_v1.bat* replace the first line with path of the directory where you have kept the smartSpotlight_v1.py file
+For  *Background_v1.bat*replace the first line with path of the directory where you have kept the randomBackground_v1.py file
 
-### 3. (Optional) If you want amazing spotlight wallpaper archives
-Download it from the below link and paste it in your toDirectory
+
+### C. (Optional) If you want amazing spotlight wallpaper archives
+Download and Extract from below link and cut-paste the wallpers to you *toDirectory*
+https://www.dropbox.com/sh/a3hymsi4i5rf8kw/AABbieyT6sbr3aoSw3j3U9Ila?dl=0
 
 ## How to use
 
