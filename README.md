@@ -6,20 +6,20 @@ An automatic desktop wallpaper changer using windows spotlight wallpapers
 **All using a a single click. !!**
 
 ## Pre-requisites
-1. Install anaconda latest version
+1. Download and Install anaconda latest version
 https://www.anaconda.com/
 
-2. Add anaconda scripts directory to your environment variable
-Eg. Add the following path - **C:\Users\sidus\Anaconda3\Scripts\** to your environment **path** variable
+2. Add anaconda scripts directory path to your *path* environment variable
+Eg. Find your Anaconda installed directory path and Add the following path, Example the following path *C:\Users\sidus\Anaconda3\Scripts\* to your environment *path* variable
 
 ## Configuration
 
 ### A. Change paths in configuration file
 
 Specify the fromDirectory and the toDirectory variable in the config.txt file
-1. fromDirectory - Should be the path to your assets directory in windows that stores the lock screen wallpapers
-Alternatively for fromDirectory - You could also specify path to some other folder in your system from where only widescreen wallpapers suitable for desktop needs to be copied
-2. toDirectory - The directory where the appropriate widescreen spotlight wallpapers will be stored (appended with .jpg ffor sptotlight wallpapers)
+1. *fromDirectory* - Should be the path to your assets directory in windows that stores the lock screen wallpapers
+You could also specify path to some other folder in your system from where only widescreen wallpapers suitable for desktop needs to be copied
+2. *toDirectory* - The directory where the appropriate widescreen spotlight wallpapers will be stored (appended with .jpg ffor sptotlight wallpapers)
 
 ### B. Change paths in bat files
 For *smartSpotlight_v1.bat* replace the first line with path of the directory where you have kept the smartSpotlight_v1.py file
