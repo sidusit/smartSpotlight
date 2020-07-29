@@ -1,7 +1,7 @@
 # Smart Spotlight Wallpapers
 An automatic desktop wallpaper changer using windows spotlight wallpapers 
-1. Automatically updates new background wallpapers from microsoft spotlight wallpapers
-2. Automatically updates the wallpapers
+1. Automatically updates new background wallpapers from microsoft spotlight
+2. Automatically changes the wallpapers
 
 **All using a a single click. !!** - Check the video demo - https://www.youtube.com/watch?v=E6WVh-DHMKA
 
