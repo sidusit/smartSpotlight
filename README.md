@@ -25,7 +25,7 @@ An automatic desktop wallpaper changer using windows spotlight wallpapers
 
 
 3. (Optional) If you want amazing spotlight wallpaper archives
-  - Download and Extract from below link and cut-paste the wallpers to you *toDirectory*
+  - Download and Extract from below link and cut-paste the wallpapers to your *toDirectory*
   - https://www.dropbox.com/sh/a3hymsi4i5rf8kw/AABbieyT6sbr3aoSw3j3U9Ila?dl=0
 
 ## How to use
