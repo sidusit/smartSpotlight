@@ -22,4 +22,4 @@ randomNum = np.random.randint(0,len(toFiles))
 file = toFiles[randomNum]
 
 SPI_SETDESKWALLPAPER = 20
-ctypes.windll.user32.SystemParametersInfoW(SPI_SETDESKWALLPAPER, 0, configDict['toDirectory']+file , 0)
+ctypes.windll.user32.SystemParametersInfoW(SPI_SETDESKWALLPAPER, 0, configDict['toDirectory']+file , 1)
