@@ -18,7 +18,7 @@ An automatic desktop wallpaper changer using windows spotlight wallpapers
   - *fromDirectory* - Should be the path to your assets directory in windows that stores the lock screen wallpapers.
     - You could also specify path to some other folder in your system from where only widescreen wallpapers suitable for desktop needs to be copied
   - *toDirectory* - The directory where the appropriate widescreen spotlight wallpapers will be stored (appended with .jpg for spotlight wallpapers)
-
+ ** Please Note ** - the from and to folder paths should end with a blackslash , for example please refer to the config file
 2. Change paths in bat files
   - For *smartSpotlight_v1.bat* replace the first line with path of the directory where you have kept the *smartSpotlight_v1.py* file.
   - For  *Background_v1.bat* replace the first line with path of the directory where you have kept the *randomBackground_v1.py* file
@@ -42,7 +42,7 @@ An automatic desktop wallpaper changer using windows spotlight wallpapers
   - Also renames the files to .jpg and checks if the image resolutions are wide enough to fit a desktop screen.
 
 2. randomBackground_v1.py
-  - Changes to a new wallpaper while randomly choosing a wallpaper from your specified folder(toDirectory) in the config file.
+  - Changes to a new wallpaper while randomly choosing a wallpaper from your specified folder(toDirectory) in the @config.txt
 
 3. smartSpotlight_v1.bat and randomBackground_v1.bat
   - These are batch files that cd to your directory where the python codes files 1. and 2. are stored
