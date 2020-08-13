@@ -36,7 +36,7 @@ An automatic desktop wallpaper changer using windows spotlight wallpapers
 
 2. When you want to change the wallpaper double click the randomBackground_v1.bat (This can also be scheduled like above)
 
-## Description of files code files used
+## Description of files used
 
 1. smartSpotlight_v1.py
   - Updates all lockscreen wallpapers stored in the assets directory (or some other directory) to your directory (toDirectory) specified in the config file. 
